@@ -142,7 +142,7 @@
 								is a quick story of me and this
 								website.
 								<hr color="black">
-								Hi I am harisundar studying in panimalar institute of technology in the
+								Hi I am Sanjay Kumar studying in panimalar institute of technology in the
                                                                 year of 3rd btech information technology .
                                                                  As my hobby is watching tv and palying games 
                                                                  and interested to do some coding while free timesand this is all about me.
@@ -168,7 +168,7 @@
 								<hr color="black">
 								Cheers,
 								<br>
-								<b>yours harisundar</b>
+								<b>yours Sanjay Kumar</b>
 							</font>
 						</td>
 					</tr>
